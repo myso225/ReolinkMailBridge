@@ -1,0 +1,9 @@
+bin/
+obj/
+data/
+mail/
+*.user
+.vs/
+.idea/
+# Machine-specific settings: camera IPs, UIDs, passwords
+appsettings.Local.json

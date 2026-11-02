@@ -1,0 +1,7 @@
+bin/
+obj/
+mail/
+data/
+.git/
+.github/
+appsettings.Local.json
